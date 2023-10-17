@@ -45,14 +45,14 @@ h1{
 #menu-img{
     position: absolute;
     
-    width: 13%;
+    width: 9%;
     bottom: 0;
-    left: 3%;
+    left: 2%;
 }
 #menu-img1{
     position: absolute;
     display: none;
-    width: 9%;
+    width: 6%;
     bottom: 4%;
-    left: 0;
+    left: 0.5%;
 }
